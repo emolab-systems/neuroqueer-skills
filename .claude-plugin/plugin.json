@@ -1,0 +1,19 @@
+{
+  "name": "queer-praxis",
+  "description": "Skills for neuroqueer creative practice — shifting agent generation away from normative convergence patterns",
+  "version": "1.0.0",
+  "author": {
+    "name": "emolab systems",
+    "url": "https://github.com/emolab-systems"
+  },
+  "repository": "https://github.com/emolab-systems/neuroqueer-skills",
+  "license": "MIT",
+  "keywords": [
+    "neuroqueer",
+    "queer",
+    "neurodivergent",
+    "creative-coding",
+    "experimental-writing",
+    "art"
+  ]
+}

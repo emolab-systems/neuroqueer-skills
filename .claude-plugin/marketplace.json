@@ -1,0 +1,15 @@
+{
+  "name": "neuroqueer-skills",
+  "owner": {
+    "name": "emolab systems",
+    "url": "https://github.com/emolab-systems"
+  },
+  "plugins": [
+    {
+      "name": "queer-praxis",
+      "source": "./",
+      "description": "Neuroqueer creative practice for AI agents",
+      "version": "1.0.0"
+    }
+  ]
+}
