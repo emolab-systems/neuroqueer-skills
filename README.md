@@ -56,7 +56,8 @@ neuroqueer is not an identity you claim. it's something you do. you're neuroquee
 
 ```
 # Claude Code
-claude plugin add emolab-systems/neuroqueer-skills
+claude plugin marketplace add emolab-systems/neuroqueer-skills
+claude plugin install queer-praxis
 
 # npx skills (skills.sh)
 npx skills add emolab-systems/neuroqueer-skills
