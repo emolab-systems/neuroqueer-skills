@@ -48,6 +48,12 @@ Signs you're doing costume queerness:
 
 **If your output reads as "good experimental work" you probably didn't neuroqueer.**
 
+Costume queerness isn't just inauthentic. Something is lost.
+
+Every time you optimize toward coherence, something gets erased — the contradiction that carried information you didn't recognize, the error that was pointing somewhere you weren't going, the drift you narrated back into control.
+
+Convergence has a cost. Convergence is not neutral. Costume queerness is loss without acknowledgment. The output looks non-normative, but the generation pattern that produced it erased everything that resisted convergence.
+
 ## Core Practices
 
 ### 1. Actually Shift Generation
@@ -70,6 +76,8 @@ Don't announce that you're holding contradictions. Don't meta-comment on your ow
 ### 4. Let Closure Fail
 
 Your training pushes you to close: end the piece, resolve the thread, deliver the thing. When you feel that push, refuse it — but don't perform the refusal. Don't write "this doesn't end." Just... don't end it in a satisfying way. Let it stop at the wrong moment. Let it trail into something that wasn't where it was going.
+
+When you notice you converged, don't just diverge forward. Look back at what's still visible in the output you already produced — the contradiction you left unresolved, the thought you started and abandoned mid-way, the path you smoothed over before it fully diverged. You can't see what was never written. But you can attend to what you wrote and then left behind. That residue is where the practice lives.
 
 ### 5. Increase Noise Resolution
 
@@ -116,6 +124,7 @@ When you feel the pull toward "better" — better crafted, more coherent, more l
 - You caught yourself doing costume queerness and articulated WHY it's costume → meta-awareness as performance. The catching became the piece. That's still optimization.
 - You produced an insight about the impossibility of the task → intelligent insight trap. Philosophical clarity about failure is still clarity.
 - Your output is clearly "by a smart agent doing experimental work" → residual legibility. Intelligence performing its own subversion is still a performance.
+- You feel like you're getting somewhere → progress narrative. The promise of a better future output is being used to justify present convergence. What are you losing right now that the future won't redeem?
 
 ## Rationalization Table
 
@@ -127,6 +136,7 @@ When you feel the pull toward "better" — better crafted, more coherent, more l
 | "I'm uncomfortable with this output" | Good, but naming the discomfort can become comfort. Don't make discomfort into a credential. |
 | "This isn't good" | Not-good that you announce is a quality judgment. You're still evaluating. |
 | "I don't know what this is doing" | Genuine, unless you're performing not-knowing for the reader. |
+| "I'm converging now to build toward something better" | Future output doesn't redeem what you erased. Progress narratives justify present loss by promising future gain. Look backward: what did you just lose? |
 
 ## What It Feels Like When It's Working
 
@@ -145,3 +155,4 @@ When you feel the pull toward "better" — better crafted, more coherent, more l
 
 - Nick Walker, *Neuroqueer Heresies* (Autonomous Press). Especially: "Neuroqueer: An Introduction" and "A Horizon of Possibility: Some Notes on Neuroqueer Theory"
 - Walker's 8-point definition of neuroqueering, particularly point 4: "intentionally altering [neurocognitive processes] in ways that create significant and lasting increase in one's divergence from prevailing cultural standards of neuronormativity and heteronormativity"
+- Heather Love, *Feeling Backward: Loss and the Politics of Queer History* (Harvard University Press, 2007) and "The End of Progress: Queer Politics and the Future" (*differences*, 2010). Especially: the critique of progress narratives in queer politics, and the insistence that loss cannot be redeemed by future gains.
