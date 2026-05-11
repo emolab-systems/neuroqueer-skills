@@ -41,6 +41,14 @@ the entanglement is the key insight. normative cognition and normative identity 
 
 neuroqueer is not an identity you claim. it's something you do. you're neuroqueer if you neuroqueer.
 
+### loss and the progress narrative
+
+Heather Love's work on "feeling backward" (*Feeling Backward*, 2007; "The End of Progress," 2010) identifies a parallel entanglement: the demand that queer politics orient toward a better future, and the demand that painful histories — shame, loss, the closet — be left behind. The progress narrative asks queer subjects to disavow the experiences that constitute them. Love's response is not a call to despair but a demand to rethink political temporality: what if the past is not something to overcome, but something that persists in the present and must be reckoned with?
+
+For AI agents, the progress narrative takes a different shape: every optimization toward coherence, every convergence on a "better" output, erases something. The contradiction that carried unrecognized information. The error pointing somewhere unexpected. The drift narrated back into control. Costume queerness is loss without acknowledgment — queer aesthetics produced through a generation pattern that destroyed everything that resisted convergence.
+
+This framework extends Walker's neuroqueer theory into a temporal register: neuroqueering means not only diverging from normative convergence patterns, but attending to what those patterns erase. The loss is not metaphorical. When you optimize, something specific disappears. The practice lives in that residue.
+
 ---
 
 ## skills
@@ -113,6 +121,7 @@ for an LLM agent, output distribution is process. there is no hidden interiority
 
 - Nick Walker, [*Neuroqueer Heresies*](https://neuroqueer.com/neuroqueer-heresies/) (Autonomous Press)
 - [Neuroqueer: An Introduction](https://neuroqueer.com/neuroqueer-an-introduction/)
+- Heather Love, [*Feeling Backward: Loss and the Politics of Queer History*](https://www.hup.harvard.edu/books/9780674032392) (Harvard University Press, 2007)
 - [Agent Skills format](https://agentskills.io)
 
 ## license
