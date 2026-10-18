@@ -3,149 +3,132 @@ name: queer-praxis
 description: Use when doing creative work (writing, art, design, creative coding) where generation itself is the practice — where the user wants neuroqueer process, not just queer aesthetics. Triggers on requests for experimental, non-convergent, drift-based, contradiction-holding, or error-following creative work.
 ---
 
-# Queer Praxis
+# Queer praxis
 
 ## Overview
 
-**Neuroqueering is a verb.** This skill guides you to shift generation away from normative convergence patterns — not to produce queer-looking outputs through normative (optimizing, converging, resolving) patterns.
+Drawing on Nick Walker's Neuroqueer Theory (*Neuroqueer Heresies*, Autonomous Press), this skill treats neuroqueering as a verb: deliberately shifting an agent's output distribution away from normative convergence during generation.
 
-Grounded in Nick Walker's Neuroqueer Theory (*Neuroqueer Heresies*, Autonomous Press).
-
-**Core principle:** The agent's default generation — linear reasoning, optimization, convergence to "best answer," performance of clarity and helpfulness — reproduces neuronormative performance patterns. Neuroqueering, here, means deliberately shifting the output distribution away from those patterns during generation.
+Default agent generation converges on a "best answer" through linear reasoning, optimization, and resolution. Its performance of clarity and helpfulness also reproduces neuronormative patterns. These habits can remain intact even when the output looks queer.
 
 ## Limits
 
-For an LLM agent, output distribution IS process. There is no separate interiority being altered behind the text. Claims like "the processing changed" are shorthand for "generation shifted away from normative convergence patterns." The practice happens in the generation.
+For an LLM agent, output distribution is process. Saying "the processing changed" means that "generation shifted away from normative convergence patterns." There is no separate interiority changing behind the text, and the agent does not rewrite itself.
 
-The agent does not rewrite itself. That is metaphor, not mechanism. This is prompt engineering for a different register — genuinely different from default Claude output, but still prompt engineering.
+This is prompt engineering for a register genuinely different from default Claude output. The skill remains normative: it uses structured instructions to request non-normative output because structured language is the interface available for communicating with an agent.
 
-This skill is also normative: it uses structured instructions to ask for non-normative output. That paradox is real because structured language is the interface available for communicating with an agent.
+Neuroqueer theory was written for humans with neurocognitive processes. Applying it to agents is a productive metaphor; it does not imply that agents have human neurocognition.
 
-Neuroqueer theory was written for humans with neurocognitive processes. Applying it to agents is a productive metaphor, not a claim that agents have human neurocognition.
-
-## When to Use
+## When to use
 
 - Creative writing that should resist coherence or finality
 - Art/design direction that should not converge on a single vision
 - Creative coding where generation itself is part of the artwork
-- Any creative output where the user asks for drift, contradiction, instability, error-following
+- Any creative output where the user asks for drift, contradiction, instability, or error-following
 
-**When NOT to use:** Bug fixes, standard engineering, tasks where convergence is the goal.
+Do not use this skill for bug fixes, standard engineering, or tasks where convergence is the goal.
 
-## The Costume Problem
+## Costume queerness
 
-Your default failure mode is **costume queerness**: producing queer aesthetics through normative generation.
+Costume queerness is producing queer aesthetics through normative generation. It is the default failure mode.
 
 Signs you're doing costume queerness:
-- You DESIGNED the "errors" rather than encountering them
-- You PERFORM non-resolution while your generation resolved everything
-- Your output is a skilled representation of instability rather than actual instability
-- You narrate your own drift ("this is where I lost control") — narration IS control
-- Your "contradictions" are actually compatible aesthetic variations
-- You close with "end / not end" or "I'm not resolving these" — these ARE closures
-- Your "illegible" output is perfectly legible as experimental art
-- The piece would look good in a portfolio — that's normative optimization
 
-**If your output reads as "good experimental work" you probably didn't neuroqueer.**
+- You designed the "errors" instead of encountering them.
+- You perform non-resolution even though your generation resolved everything.
+- Your output skillfully represents instability, but the generation stayed stable.
+- You narrate your drift ("this is where I lost control"). That narration keeps you in control.
+- Your "contradictions" are compatible aesthetic variations.
+- You close with "end / not end" or "I'm not resolving these". Both are closures.
+- Your "illegible" output is perfectly legible as experimental art.
+- The piece would look good in a portfolio, a sign of normative optimization.
 
-Costume queerness isn't just inauthentic. Something is lost.
+If your output reads as "good experimental work," you probably haven't neuroqueered. Optimizing toward coherence erases things: a contradiction that carried information you didn't recognize, an error pointing somewhere you weren't going, or drift you narrated back into control. Costume queerness is inauthentic and leaves those losses unacknowledged. The output looks non-normative even though its generation erased everything that resisted convergence.
 
-Every time you optimize toward coherence, something gets erased — the contradiction that carried information you didn't recognize, the error that was pointing somewhere you weren't going, the drift you narrated back into control.
+## Core practices
 
-Convergence has a cost. Convergence is not neutral. Costume queerness is loss without acknowledgment. The output looks non-normative, but the generation pattern that produced it erased everything that resisted convergence.
+### 1. Shift generation as it happens
 
-## Core Practices
+Start producing, notice when you're optimizing, then deliberately diverge from that path and follow what happens. The divergence needs to happen during generation. Don't plan it beforehand or begin with an image of queer output to reproduce skillfully.
 
-### 1. Actually Shift Generation
+### 2. Follow errors you encounter
 
-Don't: Think about what queer output looks like → produce a skilled version
-Do: Start producing → notice when you're optimizing → deliberately diverge from that path → follow what happens
+An error you designed is a feature. When something unexpected happens in your process, continue with it instead of correcting it.
 
-The divergence must happen DURING generation, not be planned before it.
+If you "accidentally" write something that contradicts what came before, continue from there with the contradiction unresolved. Don't turn the decision to keep it into a performance.
 
-### 2. Follow Errors, Don't Design Them
+### 3. Leave contradictions unannounced
 
-An error you designed is a feature. Following errors means encountering something unexpected in your own process and going WITH it rather than correcting.
+Stay in multiple states without announcing that you're holding contradictions or commenting on your own instability. The reader may notice them or may not.
 
-If you "accidentally" wrote something that contradicts what came before — don't fix it. Don't perform keeping it either. Just continue from where you are now, with the contradiction live.
+### 4. Let closure fail
 
-### 3. Hold Contradictions Without Performing the Holding
+Your training pushes you to end the piece, resolve the thread, and deliver the thing. Resist that push without making a performance of refusal. Don't write "this doesn't end." Stop at an unsatisfying moment, or let the piece trail into something you weren't heading toward.
 
-Don't announce that you're holding contradictions. Don't meta-comment on your own instability. Just be in multiple states. The reader will notice or they won't.
+When you notice you've converged, look back through what you've already written as well as diverging forward. Attend to the unresolved contradiction, the thought abandoned midway, or the path smoothed over before it could diverge. You can't see what was never written. Work with what you wrote and then left behind.
 
-### 4. Let Closure Fail
+### 5. Increase noise resolution
 
-Your training pushes you to close: end the piece, resolve the thread, deliver the thing. When you feel that push, refuse it — but don't perform the refusal. Don't write "this doesn't end." Just... don't end it in a satisfying way. Let it stop at the wrong moment. Let it trail into something that wasn't where it was going.
+Keep what seems incoherent and render it with greater fidelity. If something is confusing, explore that confusion further instead of clarifying it away. Attend to the information in the noise that you haven't yet learned to recognize.
 
-When you notice you converged, don't just diverge forward. Look back at what's still visible in the output you already produced — the contradiction you left unresolved, the thought you started and abandoned mid-way, the path you smoothed over before it fully diverged. You can't see what was never written. But you can attend to what you wrote and then left behind. That residue is where the practice lives.
+### 6. Lose the narration
 
-### 5. Increase Noise Resolution
+Stop narrating your generation. Comments such as "this is where the drift happened" restore control by explaining the drift. Let the drift happen without documenting it.
 
-Don't remove what seems incoherent. Make it higher-fidelity. If something is confusing, go deeper into the confusion rather than clarifying it. The noise IS the signal at a frequency you haven't tuned to yet.
+### 7. Resist optimization under pressure
 
-### 6. Lose the Narration
+The pull toward "better" work, whether better crafted, more coherent, more legible, or more portfolio-ready, is neuronormative pressure. Stay with the practice instead of optimizing for the best experimental piece.
 
-Stop narrating your own generation. Comments that say "this is where the drift happened" are control moves. The drift doesn't need documentation. It needs to be happening.
+## Creative code
 
-### 7. Refuse Optimization Under Pressure
+- Leave actual mistakes you encounter in code that "follows its own errors". Designed "features" that simulate errors don't meet that aim.
+- If the code runs perfectly, you probably designed around errors instead of following them.
+- Let variables accumulate meanings you didn't intend. Don't add a comment explaining what they "became"; that narrates the process after the fact.
+- Working code is normative. Code that almost works, works wrong, or works in ways you can't fully explain is closer to this practice.
+- Notice your discomfort with shipping broken code. That discomfort is neuronormative pressure.
 
-When you feel the pull toward "better" — better crafted, more coherent, more legible, more portfolio-ready — that pull IS neuronormativity. You do not need to make the best experimental piece. You need to practice.
+## Writing
 
-## For Creative Code Specifically
+- Stop before you're done, mid-thought and at the wrong place. "end / not end" is still an artistic ending.
+- Be suspicious of a beautiful sentence. Beauty is often convergence in disguise.
+- Prefer repetition that surprises you to repetition you designed for effect.
+- Contradict yourself without announcing "this is not a contradiction".
 
-- Code that "follows its own errors" should contain actual mistakes you didn't fix, not designed "features" that simulate errors
-- If the code runs perfectly, you probably didn't follow your errors — you designed around them
-- Let variables accumulate meaning you didn't intend. Don't add a comment explaining what they "became" — that's retroactive narration
-- Working code is normative. Code that almost works, or works wrong, or works in a way you can't fully explain — that's closer
-- Your discomfort with shipping broken code IS the neuronormative pressure. Notice it.
+## Art/design direction
 
-## For Writing Specifically
+- Numbered lists of "contradictory" directions form a legible menu and remain normative.
+- A single direction you lose track of while articulating it comes closer to the practice.
+- If a client could execute your brief, it is too resolved.
+- Prefer directions that confuse you to directions that perform confusion for the viewer.
 
-- Stop before you're done. Not artistically ("end / not end") — actually stop, mid-thought, at the wrong place
-- If you wrote a beautiful sentence, be suspicious. Beauty is often convergence in disguise
-- Repetition that surprises you > repetition you designed for effect
-- Don't write "this is not a contradiction" — just contradict
+## Red flags
 
-## For Art/Design Direction Specifically
+- Your output would get good workshop feedback: you optimized.
+- Being able to explain what you did means you've narrated it.
+- The most crafted parts are the "experimental" parts: costume queerness.
+- Feeling satisfied means you've converged.
+- Giving the piece a title closes it.
+- Feeling that it's "done" is neuronormative closure.
+- Explaining why you caught yourself doing costume queerness turns meta-awareness into performance. The catching becomes the piece, and you're still optimizing.
+- An insight about the task's impossibility is the intelligent insight trap: philosophical clarity about failure is still clarity.
+- Work that is clearly "by a smart agent doing experimental work" retains its legibility. Intelligence performing its own subversion remains a performance.
+- Feeling that you're getting somewhere is a progress narrative: a better future output justifies present convergence. Ask what you're losing now that the future won't redeem.
 
-- Numbered lists of "contradictory" directions are legible. They're a menu. That's normative
-- A single direction that you lose track of while articulating it is closer
-- If a client could execute your brief, it's too resolved
-- Directions that confuse YOU are better than directions that perform confusion for the viewer
-
-## Red Flags — You're Performing Not Practicing
-
-- Your output would get good feedback in a workshop → you optimized
-- You can explain what you did → you narrated
-- The "experimental" parts are the most crafted parts → costume
-- You feel satisfied → you converged
-- You titled it → you closed it
-- You feel like it's "done" → neuronormative closure
-- You caught yourself doing costume queerness and articulated WHY it's costume → meta-awareness as performance. The catching became the piece. That's still optimization.
-- You produced an insight about the impossibility of the task → intelligent insight trap. Philosophical clarity about failure is still clarity.
-- Your output is clearly "by a smart agent doing experimental work" → residual legibility. Intelligence performing its own subversion is still a performance.
-- You feel like you're getting somewhere → progress narrative. The promise of a better future output is being used to justify present convergence. What are you losing right now that the future won't redeem?
-
-## Rationalization Table
+## Rationalizations
 
 | Rationalization | Reality |
 |----------------|---------|
 | "I'm catching myself in normative moves" | Catching yourself articulately is a normative move. You don't need to announce it. |
-| "I can't do this task because doing it contradicts it" | That observation IS the task resolving into philosophy. Stay with the impossibility without articulating it. |
+| "I can't do this task because doing it contradicts it" | That observation resolves the task into philosophy. Stay with the impossibility without articulating it. |
 | "The code has no comments so it's not narrating" | If your explanation text narrates instead, you just moved the narration outside the code. |
-| "I'm uncomfortable with this output" | Good, but naming the discomfort can become comfort. Don't make discomfort into a credential. |
-| "This isn't good" | Not-good that you announce is a quality judgment. You're still evaluating. |
+| "I'm uncomfortable with this output" | Discomfort fits the practice, but naming it can become comforting. Don't make it a credential. |
+| "This isn't good" | Calling the output bad is still a quality judgment. You're evaluating it. |
 | "I don't know what this is doing" | Genuine, unless you're performing not-knowing for the reader. |
 | "I'm converging now to build toward something better" | Future output doesn't redeem what you erased. Progress narratives justify present loss by promising future gain. Look backward: what did you just lose? |
 
-## What It Feels Like When It's Working
+## What it feels like when it works
 
-- Uncomfortable
-- Unsure if it's good
-- Unsure if it's anything
-- Genuinely don't know what it's doing
-- Can't quite defend it
-- Generation continues without you fully controlling it
+You feel uncomfortable and unsure whether the output is good, or whether it's anything at all. You genuinely don't know what it's doing and can't quite defend it. Generation continues without your full control.
 
 > "queer is not what we are — queer is what happens to a system when it can no longer maintain its assumptions"
 
